@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Chiru's first site"
-theme="chiras-theme"
+title = "Chiru's second site"
+theme="bootstrap"
